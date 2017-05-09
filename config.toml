@@ -1,0 +1,4 @@
+baseURL = "http://bobmarteal.github.io/"
+languageCode = "en-us"
+title = "bob marteal"
+theme = "hugo-theme-blueberry-detox"
